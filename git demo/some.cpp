@@ -4,7 +4,8 @@ void solve(){
 }
 
 int max(int a,int b){
-    
+    a+b;
+    b-a;
 }
 int main(){
 int tc;
